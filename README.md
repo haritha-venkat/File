@@ -79,7 +79,7 @@ class HelloWorld
 
 ## Output:
 
-![image](https://github.com/haritha-venkat/File/assets/121285701/c00309be-0974-468b-8be5-4c5f53f26bae)
+![image](https://github.com/haritha-venkat/File/assets/121285701/cdd4a5b0-d3aa-445d-9a3f-23d21cd69594)
 
 
 ## Result:
